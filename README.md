@@ -15,28 +15,28 @@ Business Administration Student | Aspiring Backend Developer
 
 ## 👩‍💻 About Me
 
-- 🎓 Business Administration student with an interest in **Technology & Software Development**
-- 💻 Currently building my skills toward **Backend Development**
-- 🌐 Learned **HTML & CSS** and currently practicing **JavaScript**
+- 🎓 Business Administration student exploring the world of Software Development
+- 💻 Aspiring Backend Developer
+- 🌐 Learned **HTML & CSS**
+- ⚡ Have basic knowledge of **JavaScript**
 - 🐍 Studied **Programming Fundamentals with Python**
-- 🔷 Starting my journey with **C# & .NET** for Backend Development
-- 🌱 Learning step by step through practice, projects, and problem solving
-- 🎯 My goal is to build a strong foundation and become a professional **Backend Developer**
+- 🔷 Currently starting my journey with **C# & .NET**
+- 🎯 Building my programming skills step by step through practice and projects
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### 💻 Programming Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+## 🛠️ Skills & Technologies
 
 ### 🌐 Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+### 💻 Programming
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### ⚙️ Backend
 
@@ -56,15 +56,15 @@ class AboutMe
     public string Field = "Business Administration";
     public string Goal = "Backend Development";
 
-    public string[] Learning =
+    public string[] Knowledge =
     {
         "HTML",
         "CSS",
-        "JavaScript",
-        "Python Fundamentals",
-        "C#",
-        ".NET"
+        "Basic JavaScript",
+        "Python Programming Fundamentals"
     };
+
+    public string CurrentlyLearning = "C# & .NET";
 }
 ```
 
@@ -72,38 +72,18 @@ class AboutMe
 
 ## 📚 Currently Learning
 
-- 🔷 **C# & .NET**
-- 🌐 **JavaScript**
-- 🧠 **Programming & Problem Solving**
-- 🔧 **Git & GitHub**
-- 🗄️ Backend Development & Databases — coming next
+🔷 **C# & .NET**
 
 ---
 
-## 🎯 My Learning Path
+## 🎯 My Goal
 
-```text
-HTML & CSS
-     ↓
-JavaScript Fundamentals
-     ↓
-Programming Fundamentals
-     ↓
-C# 
-     ↓
-.NET Backend Development
-     ↓
-Databases & APIs
-     ↓
-Backend Projects 🚀
-```
+To build a strong foundation in programming and become a **Backend Developer** using **C# & .NET**.
 
 ---
 
 <div align="center">
 
 ### 🌱 Learning • Building • Improving
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/>
 
 </div>
