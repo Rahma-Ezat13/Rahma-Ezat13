@@ -14,19 +14,19 @@ Currently starting my journey with C# & ASP.NET Core
 ```csharp
 class Rahma
 {
-    string[] webBasics =
+    string[] web Basics =
     {
         "HTML",
         "CSS"
     };
 
-    string[] programmingBasics =
+    string[] programming Basics =
     {
         "Basic JavaScript",
         "Programming Fundamentals with Python"
     };
 
-    string[] currentFocus =
+    string[] current Focus =
     {
         "C#",
         "ASP.NET Core",
