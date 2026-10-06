@@ -1,24 +1,15 @@
+<h2> Hi, I'm Rahma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h2>Hi, I'm Rahma 👋</h2>
-
-<p>
-Business Administration Student | Aspiring Backend Developer
-</p>
-
-</div>
-
-<hr>
-
-## 👩‍💻 About Me
-
-- 🎓 Business Administration student exploring the world of Software Development
 - 💻 Aspiring Backend Developer
-- 🌐 Learned **HTML & CSS**
+- 🎓Business Administration student exploring the world of Software Development
+-  Learned **HTML & CSS**
 -  Have basic knowledge of **JavaScript**
 -  Studied **Programming Fundamentals with Python**
-- 🔷 Currently starting my journey with **C# & ASP.NET Core**
-- 🎯 Building my programming skills step by step through practice and projects
+-  Currently starting my journey with **C# & ASP.NET Core**
+- Building my programming skills step by step through practice and projects
 
 ---
 
