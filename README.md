@@ -12,32 +12,56 @@ Currently starting my journey with C# & ASP.NET Core
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```csharp
-class Rahma
-{
-    string[] web Basics =
-    {
-        "HTML",
-        "CSS"
-    };
 
-    string[] programming Basics =
-    {
-        "Basic JavaScript",
-        "Programming Fundamentals with Python"
-    };
+🛠️ Skills & Technologies
 
-    string[] current Focus =
-    {
-        "C#",
-        "ASP.NET Core",
-        "Backend Development"
-    };
+Programming & Fundamentals
 
-    string background = "Business Administration";
-    string goal = "Become a Backend Developer";
-}
-```
+Python — Programming Fundamentals
 
+JavaScript — Basic Knowledge
+
+C# — Currently Learning
+
+Web Development
+
+HTML
+
+CSS
+
+Backend
+
+ASP.NET Core — Starting
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+📚 Learning Path
+
+Programming Fundamentals
+        ↓
+HTML & CSS
+        ↓
+Basic JavaScript
+        ↓
+C#
+        ↓
+ASP.NET Core
+        ↓
+SQL & Databases
+        ↓
+Web APIs
+        ↓
+Backend Projects 🚀
+
+🎯 Goal
+
+To become a Backend Developer and build practical applications using C# & ASP.NET Core.
 🌱 Currently starting **C# & ASP.NET Core**
 
 💻 Building my programming foundation step by step
