@@ -39,9 +39,9 @@ Currently starting my journey with C# & ASP.NET Core
 class Rahma
 {
     public string Goal = "Backend Development";
-    public string CurrentFocus = "C# & ASP.NET Core";
+    public string Current Focus = "C# & ASP.NET Core";
 
-    public string[] Knowledge =
+    public string Knowledge =
     {
         "HTML",
         "CSS",
@@ -52,31 +52,4 @@ class Rahma
 ```
 
 ---
-
-## 📚 Currently Learning
-
-🔷 **C# & ASP.NET Core**
-
----
-
-## 🎯 Learning Path
-
-```text
-HTML & CSS
-     ↓
-Basic JavaScript
-     ↓
-Programming Fundamentals
-     ↓
-C#
-     ↓
-ASP.NET Core
-     ↓
-Databases & SQL
-     ↓
-Web APIs
-     ↓
-Backend Projects 🚀
-```
-
 </div>
