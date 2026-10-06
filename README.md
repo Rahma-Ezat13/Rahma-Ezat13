@@ -1,77 +1,48 @@
-<h2> Hi, I'm Rahma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Rahma! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p>
+<em>
+Aspiring Backend Developer 💻<br>
+Business Administration Student 🎓<br>
+Currently focusing on C# & ASP.NET Core 🚀
+</em>
+</p>
 
-- 💻 Aspiring Backend Developer
-- 🎓Business Administration student exploring the world of Software Development
--  Learned **HTML & CSS**
--  Have basic knowledge of **JavaScript**
--  Studied **Programming Fundamentals with Python**
--  Currently starting my journey with **C# & ASP.NET Core**
-- Building my programming skills step by step through practice and projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahma%20Ezzat-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-ezzat-1a374b304/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rahma--Ezat13-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rahma-Ezat13)
 
----
-
-## 🛠️ Skills & Technologies
-
-### 🌐 Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-
-### 💻 Programming
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### ⚙️ Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```csharp
-class AboutMe
+class Rahma
 {
-    public string Field = "Business Administration";
-    public string Goal = "Backend Development";
-
-    public string[] Knowledge =
+    string[] code =
     {
+        "C#",
+        "Python",
+        "JavaScript",
         "HTML",
-        "CSS",
-        "Basic JavaScript",
-        "Python Programming Fundamentals"
+        "CSS"
     };
 
-    public string CurrentlyLearning = "C# & .NET";
+    string[] currentFocus =
+    {
+        "C#",
+        "ASP.NET Core",
+        "Backend Development"
+    };
+
+    string background = "Business Administration";
+    string goal = "Become a Backend Developer";
 }
 ```
 
----
+🌱 Currently learning **C# & ASP.NET Core**
 
-## 📚 Currently Learning
+💻 Building my programming foundation step by step
 
-🔷 **C# & .NET**
+🎓 Studying **Business Administration** while learning Software Development
 
----
-
-## 🎯 My Goal
-
-To build a strong foundation in programming and become a **Backend Developer** using **C# & .NET**.
-
----
-
-<div align="center">
-
-### 🌱 Learning • Building • Improving
-
-</div>
+🚀 Interested in **Backend Development, APIs, and Databases**
