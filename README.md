@@ -1,7 +1,4 @@
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <h2>Hi, I'm Rahma 👋</h2>
 
@@ -18,9 +15,9 @@ Business Administration Student | Aspiring Backend Developer
 - 🎓 Business Administration student exploring the world of Software Development
 - 💻 Aspiring Backend Developer
 - 🌐 Learned **HTML & CSS**
-- ⚡ Have basic knowledge of **JavaScript**
-- 🐍 Studied **Programming Fundamentals with Python**
-- 🔷 Currently starting my journey with **C# & .NET**
+-  Have basic knowledge of **JavaScript**
+-  Studied **Programming Fundamentals with Python**
+- 🔷 Currently starting my journey with **C# & ASP.NET Core**
 - 🎯 Building my programming skills step by step through practice and projects
 
 ---
