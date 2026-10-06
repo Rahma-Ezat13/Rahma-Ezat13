@@ -6,7 +6,7 @@
 <em>
 Aspiring Backend Developer 💻<br>
 Business Administration Student 🎓<br>
-Currently focusing on C# & ASP.NET Core 🚀
+Currently starting my journey with C# & ASP.NET Core 🚀
 </em>
 </p>
 
@@ -18,13 +18,16 @@ Currently focusing on C# & ASP.NET Core 🚀
 ```csharp
 class Rahma
 {
-    string[] code =
+    string[] webBasics =
     {
-        "C#",
-        "Python",
-        "JavaScript",
         "HTML",
         "CSS"
+    };
+
+    string[] programmingBasics =
+    {
+        "Basic JavaScript",
+        "Programming Fundamentals with Python"
     };
 
     string[] currentFocus =
@@ -39,10 +42,10 @@ class Rahma
 }
 ```
 
-🌱 Currently learning **C# & ASP.NET Core**
+🌱 Currently starting **C# & ASP.NET Core**
 
 💻 Building my programming foundation step by step
 
-🎓 Studying **Business Administration** while learning Software Development
+🎓 Studying **Business Administration** alongside Software Development
 
 🚀 Interested in **Backend Development, APIs, and Databases**
