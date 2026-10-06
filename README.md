@@ -3,11 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p>
-<em>
-Aspiring Backend Developer 💻<br>
-Business Administration Student 🎓<br>
-Currently starting my journey with C# & ASP.NET Core 🚀
-</em>
+💻 Aspiring Backend Developer <br>
+🎓 Business Administration Student <br>
+Currently starting my journey with C# & ASP.NET Core 
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahma%20Ezzat-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-ezzat-1a374b304/)
